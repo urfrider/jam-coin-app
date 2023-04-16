@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "jam-coin-app",
+    "slug": "jam-coin-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "jam-coin-app"
+}
