@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "181737472337",
+    "project_id": "jam-coin-app",
+    "storage_bucket": "jam-coin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181737472337:android:b768120ba9dd002a969370",
+        "android_client_info": {
+          "package_name": "com.jamcoinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181737472337-40ipmrqnp0jcphkg80k6ge36nr9ui97f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamcoinapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "181737472337-65etnusk4nk5511rofc0b20ag94dofmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8dMtZ1x2R15MxlX7MjUQj0TBpKlh38N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181737472337-65etnusk4nk5511rofc0b20ag94dofmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
